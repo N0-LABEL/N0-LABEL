@@ -37,7 +37,7 @@
 
 ###
 <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" alt="violet_chibi"  />
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -46,7 +46,7 @@
 Currently, I am enrolled in programming courses and actively studying various programming languages, such as Python and HTML with CSS. For my personal enjoyment, I create Discord and Telegram bots using Python, and I continue to enhance my language skills in German and English.
 
 ###
-<h3 align="left">📕 Sites to visit</h3>
+<h1 align="left">📕 Sites to visit</h1>
 
 - [My business card website](https://no-label.serveo.net/)
 - [ gpt4free | various collection of powerful language models](https://nolabel.serveo.net/)
