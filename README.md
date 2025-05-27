@@ -36,11 +36,8 @@
 </div>
 
 ###
-<p align="center">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" style="float: left; margin-right: 20px;">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" height="100" style="float: right; margin-left: 20px;">
-  <h1 align="center" style="clear: both; margin: 10px 0;">About me</h1>
-</p>
+<img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="40" alt="violet_chibi"  />
+  <img width="12" />    <h3 align="left">About me</h3>
 
 
 <p align="left" style="font-size: 16px;">
