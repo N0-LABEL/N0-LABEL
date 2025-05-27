@@ -36,19 +36,22 @@
 </div>
 
 ###
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Левая картинка -->
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" alt="violet_chibi" style="height: 100px;" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: nowrap;">
   
-  <!-- Центральный заголовок -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <!-- Левая картинка -->
+    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" alt="violet_chibi" style="height: 100px;" />
+  
+    <!-- Центральный заголовок -->
   <div style="text-align: center;">
     <h1 style="font-size: 32px; margin: 0;">About me</h1>
   </div>
 
-  <!-- Правая картинка -->
+    <!-- Правая картинка -->
   <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" alt="violet_chibi" style="height: 100px;" />
+  </div>
 </div>
-
+ 
 
 <p align="left" style="font-size: 16px;">
   My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
