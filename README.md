@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/windy-violet-evergarden.gif?raw=true"  />
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/windy-violet-evergarden.gif?raw=true"  />
 </div>
 
 ###
