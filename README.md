@@ -36,13 +36,11 @@
 </div>
 
 ###
-<div align="center" style="margin-bottom: 10px;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" width="100">
-    <h1 style="margin: 0;">About me</h1>
-    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" width="100">
-  </div>
-</div>
+<p align="center">
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" align="left">
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" height="100" align="right">
+  <h1 align="center">About me</h1>
+</p>
 
 <p align="left" style="font-size: 16px;">
   My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
