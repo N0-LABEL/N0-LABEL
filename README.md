@@ -93,7 +93,7 @@ Currently, I am enrolled in programming courses and actively studying various pr
 ###
 
 <div align="center">
-  <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=Stakepy" height="180" alt="stats graph"  />
+  <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=N0-LABEL" height="180" alt="stats graph"  />
 
 ###
 
