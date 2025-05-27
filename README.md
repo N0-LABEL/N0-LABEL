@@ -36,14 +36,23 @@
 </div>
 
 ###
-<img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" alt="violet_chibi"  />
-<h1 align="left">About me</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div style="height: 100px; display: flex; align-items: center;">
+    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" alt="violet_chibi" style="max-height: 100%; max-width: 100px; object-fit: contain;" />
+  </div>
 
-###
+  <h1 style="font-size: 32px; margin: 0; text-align: center;">About me</h1>
 
-<p align="left">My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
+  <div style="height: 100px; display: flex; align-items: center;">
+    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" alt="violet_chibi" style="max-height: 100%; max-width: 100px; object-fit: contain;" />
+  </div>
+</div>
 
-Currently, I am enrolled in programming courses and actively studying various programming languages, such as Python and HTML with CSS. For my personal enjoyment, I create Discord and Telegram bots using Python, and I continue to enhance my language skills in German and English.
+<p align="left" style="font-size: 16px;">
+  My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
+  <br><br>
+  Currently, I am enrolled in programming courses and actively studying various programming languages, such as Python and HTML with CSS. For my personal enjoyment, I create Discord and Telegram bots using Python, and I continue to enhance my language skills in German and English.
+</p>
 
 ###
 <h1 align="left">📕 Sites to visit</h1>
