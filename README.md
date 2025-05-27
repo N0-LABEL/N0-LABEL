@@ -36,8 +36,7 @@
 </div>
 
 ###
-<img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="120" alt="violet_chibi"  />
-  <img width="36" />    <h1 align="left">About me</h1>
+<h1 align="left">About me</h1>
 
 
 <p align="left" style="font-size: 16px;">
