@@ -39,7 +39,7 @@
 <h1 align="left">About me</h1>
 
 
-<p align="left" style="font-size: 16px;">
+<p align="left" style="font-size: 22px;">
   My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
   <br><br>
   Currently, I am enrolled in programming courses and actively studying various programming languages, such as Python and HTML with CSS. For my personal enjoyment, I create Discord and Telegram bots using Python, and I continue to enhance my language skills in German and English.
@@ -93,23 +93,10 @@
 
 <div align="center">
   <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=N0-LABEL" height="180" alt="stats graph"  />
-</div>
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Левое изображение -->
-  <div align="left">
-    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" width="150" />
-  </div>
-  
-  <!-- Только график языков -->
-  <div align="center">
-    <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=N0-LABEL" height="180" alt="languages graph"  />
-  </div>
-  
-  <!-- Правое изображение -->
-  <div align="right">
-    <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" width="150" />
-  </div>
+  <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=N0-LABEL" height="180" alt="languages graph"  />
 </div>
+
+###
