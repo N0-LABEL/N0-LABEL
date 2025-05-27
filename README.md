@@ -36,17 +36,14 @@
 </div>
 
 ###
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Левая картинка -->
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" alt="violet_chibi" style="height: 100px;" />
-  
-  <!-- Центральный заголовок -->
-  <div style="text-align: center;">
-    <h1 style="font-size: 32px; margin: 0;">About me</h1>
-  </div>
-
-  <!-- Правая картинка -->
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" alt="violet_chibi" style="height: 100px;" />
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" width="100"></td>
+      <td><h1>About me</h1></td>
+      <td><img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" width="100"></td>
+    </tr>
+  </table>
 </div>
  
 
