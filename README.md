@@ -36,10 +36,10 @@
 </div>
 
 ###
-<p align="center">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" align="left">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" height="100" align="right">
-  <h1 align="center">About me</h1>
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" hspace="20" align="right">
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" height="100" hspace="20" align="left">
+  <h1 style="margin: 0;">About me</h1>
 </p>
 
 <p align="left" style="font-size: 16px;">
