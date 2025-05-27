@@ -36,10 +36,17 @@
 </div>
 
 ###
-<p align="center" style="margin-bottom: 0;">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" hspace="20" align="right">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" height="100" hspace="20" align="left">
-  <h1 style="margin: 0;">About me</h1>
+<div align="center">
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" style="margin: 20px;" />
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" height="100" style="margin: 20px;" />
+</div>
+
+<h1 style="text-align: center; margin-bottom: 0;">About me</h1>
+
+<p align="left" style="font-size: 16px; margin-top: 0;">
+  My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
+  <br><br>
+  Currently, I am enrolled in programming courses and actively studying various programming languages, such as Python and HTML with CSS. For my personal enjoyment, I create Discord and Telegram bots using Python, and I continue to enhance my language skills in German and English.
 </p>
 
 <p align="left" style="font-size: 16px;">
