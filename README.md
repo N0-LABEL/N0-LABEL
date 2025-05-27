@@ -36,7 +36,7 @@
 
 
 ###
-<img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" alt="violet_chibi"  />
+<img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" height="100" alt="violet_chibi"  />
 <h2 align="left">About me</h2>
 
 ###
