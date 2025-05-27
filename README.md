@@ -37,11 +37,11 @@
 
 ###
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" alt="violet_chibi" style="height: 100px;" />
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" alt="violet_chibi" style="height: 100px;" />
   
   <h1 style="font-size: 32px; margin: 0; text-align: center;">About me</h1>
 
-  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/Brozh.png?raw=true" alt="violet_chibi" style="height: 100px;" />
+  <img src="https://github.com/N0-LABEL/N0-LABEL/blob/main/Hlam/IMG_20250527_174830_616.jpg?raw=true" alt="violet_chibi" style="height: 100px;" />
 </div>
 
 <p align="left" style="font-size: 16px;">
