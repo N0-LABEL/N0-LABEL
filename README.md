@@ -39,7 +39,7 @@
 <h1 align="left">About me</h1>
 
 
-<p align="left" style="font-size: 22px;">
+<p align="left" style="font-size: 100px;">
   My name is Aleksey, and I am 17 years old. I hail from the city of Stakhanov. My passions include swimming and programming. I have been fascinated with programming since I was nine years old, and I aspire to pursue a career in the IT industry.
   <br><br>
   Currently, I am enrolled in programming courses and actively studying various programming languages, such as Python and HTML with CSS. For my personal enjoyment, I create Discord and Telegram bots using Python, and I continue to enhance my language skills in German and English.
