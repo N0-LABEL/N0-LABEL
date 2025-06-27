@@ -85,10 +85,6 @@
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N0-LABEL&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###
-
 <div align="center">
   <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=N0-LABEL" height="180" alt="stats graph"  />
 
@@ -96,5 +92,9 @@
 
   <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=N0-LABEL" height="180" alt="languages graph"  />
 </div>
+
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N0-LABEL&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
