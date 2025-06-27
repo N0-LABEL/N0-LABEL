@@ -86,13 +86,13 @@
 ###
 
 <div align="center">
-  <div align="left">
-    <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=N0-LABEL" height="180" alt="stats graph"  />
+  
+  <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=N0-LABEL" height="180" alt="stats graph"  />
     
+###
 
-  <div align="right">
-    <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=N0-LABEL" height="180" alt="languages graph"  />
-  </div>
+  <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=N0-LABEL" height="180" alt="languages graph"  />
+
 </div>
 
 ###
