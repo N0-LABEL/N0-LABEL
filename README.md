@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="[https://streak-stats.demolab.com?user=N0-LABEL&theme=vue-dark&hide_border=true](https://streak-stats.demolab.com/?user=DenverCoder1)" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=N0-LABEL" height="220" alt="streak graph"  />
 </div>
 
 ###
