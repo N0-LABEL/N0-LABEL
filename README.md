@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=N0-LABEL" height="220" alt="streak graph"  />
+  <img src="https://activity-graph.herokuapp.com/graph?username=N0-LABEL&theme=xcode" height="220" alt="streak graph"  />
 </div>
 
 ###
