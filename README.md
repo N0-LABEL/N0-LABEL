@@ -85,9 +85,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=N0-LABEL&theme=xcode" height="220" alt="streak graph"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N0-LABEL&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
